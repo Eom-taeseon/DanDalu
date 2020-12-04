@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54fe571a-6a6b-4e78-a360-3152f7681e42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/navbar-top-fixed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/templates/blogMain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DanDalu/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapp/templates/createBlog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DanDalu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DanDalu/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DanDalu/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DanDalu/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/templates/blogMain.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/templates/blogMain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -30,6 +34,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1km9FXBVBxogSmrednVKbAyWmh7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -101,7 +108,7 @@
       <workItem from="1606296231350" duration="3343000" />
       <workItem from="1606973816004" duration="2876000" />
       <workItem from="1606985173195" duration="1720000" />
-      <workItem from="1607007707873" duration="4720000" />
+      <workItem from="1607007707873" duration="15712000" />
     </task>
     <servers />
   </component>
