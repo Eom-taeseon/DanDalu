@@ -26,3 +26,6 @@ def createBlog(request):
     else:
         form = CreateBlog()
         return render(request, 'createBlog.html', {'form' : form})
+
+def detail(request):
+    return render(request, 'detail.html')
