@@ -18,16 +18,16 @@ from django.urls import path
 from django.conf.urls import include
 from django.conf import settings
 from django.conf.urls.static import static
-import blogapp.views
+import blogapp.views # blogapp/views.py 를 import함.
 
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', blogapp.views.index, name='index'),
-    path('blogMain/', blogapp.views.blogMain, name='blogMain'),
-    path('blogMain/createBlog/', blogapp.views.createBlog, name='createBlog'),
-    path('ckeditor/', include('ckeditor_uploader.urls')),
-    path('blogMain/detail/<int:blog_id>', blogapp.views.detail, name='detail'),
+    path('admin/', admin.site.urls), # admin창으로 연결.
+    path('', blogapp.views.index, name='index'), # blogapp/views.py -> def index에 연결. 해당 path의 이름은 index
+    path('blogMain/', blogapp.views.blogMain, name='blogMain'), # blogapp/views.py -> def blogMain에 연결. 해당 path의 이름은 blogMain
+    path('blogMain/createBlog/', blogapp.views.createBlog, name='createBlog'), # blogapp/views.py -> def createBlog에 연결. 해당 path의 이름은 createBlog
+    path('ckeditor/', include('ckeditor_uploader.urls')), # ckeditor 주소로 이동.
+    path('blogMain/detail/<int:blog_id>', blogapp.views.detail, name='detail'), # blogapp/views.py -> def detail에 연결. 해당 path의 이름은 detail
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

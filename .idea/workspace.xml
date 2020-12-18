@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54fe571a-6a6b-4e78-a360-3152f7681e42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/css/blog-post.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/static/css/detail/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapp/templates/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DanDalu/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DanDalu/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/templates/blogMain.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/templates/blogMain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/templates/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +106,7 @@
       <workItem from="1606973816004" duration="2876000" />
       <workItem from="1606985173195" duration="1720000" />
       <workItem from="1607007707873" duration="15874000" />
-      <workItem from="1608188185871" duration="1468000" />
+      <workItem from="1608188185871" duration="5397000" />
     </task>
     <servers />
   </component>
